@@ -54,7 +54,7 @@
     "6": {
       "id": 6,
       "type": "text",
-      "data": ":icon[write] **Riešenie:**\n\n$A_1: (\\sym{older}(\\sym{Bruno},\\sym{Alex}) \\limpl \\neg \\sym{older}(\\sym{Alex},\\sym{Bruno}))$ \n\n$A_2:$ ...\n\n\n<div class=\"note\">\n  \n:icon[explanation] Váš postup zdola nahor môžete reprezentovať tabuľkou nasledovne:\n\n:::div{.table.table-truth}\n\n|  | $\\sym{older}(\\sym{Bruno},\\sym{Alex})\\ $ | $\\sym{older}(\\sym{Alex},\\sym{Bruno})\\ $ | ... |\n|:-----:|:----:|:----:|:----:|\n| $\\Struct\\ $ | $\\ \\models$ | $\\nmodels\\ $ | ... |\n\n:::\n\n</div>",
+      "data": ":icon[write] **Riešenie:**\n\n$A_1: (\\sym{older}(\\sym{Bruno},\\sym{Alex}) \\limpl \\neg \\sym{older}(\\sym{Alex},\\sym{Bruno}))$ \n\n$A_2:$ ...\n\n\n<div class=\"note\">\n  \n:icon[explanation] Váš postup zdola nahor môžete reprezentovať tabuľkou nasledovne:\n\n:::div{.table.table-truth}\n\n|  | $\\sym{older}(\\sym{Bruno},\\sym{Alex})\\ $ | $\\sym{older}(\\sym{Alex},\\sym{Bruno})\\ $ | $\\neg \\sym{older}(\\sym{Alex},\\sym{Bruno})$ |\n|:-----:|:----:|:----:|:----:|\n| $\\Struct\\ $ | $\\ \\models$ | $\\nmodels\\ $ | $\\models$|\n\n:::\n\n</div>",
       "idCounter": 0,
       "comments": {
         "ids": [],
