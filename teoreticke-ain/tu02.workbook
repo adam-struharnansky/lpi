@@ -84,7 +84,7 @@
     "10": {
       "id": 10,
       "type": "text",
-      "data": "\n:icon[write] **Riešenie:** ...\n\n:::div{.note}\n\n:icon[explanation] Vytvárajúci strom môžete zapísať napríklad pomocou viacúrovňového \nzoznamu nasledovne:\n* implikacia\n    * $(\\sym{parent}(\\sym{Bruno},\\sym{Hugo}) \\land\n     \\sym{parent}(\\sym{Bruno},\\sym{Tina}))$\n        * $\\sym{parent}(\\sym{Bruno},\\sym{Hugo}) $\n        * $\\sym{parent}(\\sym{Bruno},\\sym{Tina}))$\n    * $ \\bigl(\n      (\\neg \\sym{woman}(\\sym{Hugo}) \\land \\sym{man}(\\sym{Hugo})) \\limpl \\sym{brother}(\\sym{Hugo},\\sym{Tina}) \\bigr) \\bigr) $\n      *\n\n:::\n \n",
+      "data": "\n:icon[write] **Riešenie:** ...\n\n:::div{.note}\n\n:icon[explanation] Vytvárajúci strom môžete zapísať napríklad pomocou viacúrovňového \nzoznamu nasledovne:\n* implikacia\n    * $(\\sym{parent}(\\sym{Bruno},\\sym{Hugo}) \\land\n     \\sym{parent}(\\sym{Bruno},\\sym{Tina}))$\n        * $\\sym{parent}(\\sym{Bruno},\\sym{Hugo}) $\n        * $\\sym{parent}(\\sym{Bruno},\\sym{Tina}))$\n    * $ \\bigl(\n      (\\neg \\sym{woman}(\\sym{Hugo}) \\land \\sym{man}(\\sym{Hugo})) \\limpl \\sym{brother}(\\sym{Hugo},\\sym{Tina}) \\bigr) \\bigr) $\n      * $\\neg \\sym{woman}(\\sym{Hugo}) \\land \\sym{man}(\\sym{Hugo})$\n      * $\\sym{brother}(\\sym{Hugo},\\sym{Tina})$\n\n:::\n \n",
       "idCounter": 0,
       "comments": {
         "ids": [],
