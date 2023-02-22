@@ -74,7 +74,7 @@
     "9": {
       "id": 9,
       "type": "text",
-      "data": ":icon[write] Vaše odpovede a zdôvodnenia napíšte priamo do tejto textovej bunky namiesto „…“ \n\n1. $(\\sym{woman}(\\sym{Alex})\\land\\sym{man}(\\sym{Alex}))$ \\\n   ...\n\n2. $\\lnot(\\sym{likes}(\\sym{Alex},\\sym{Alex}))$ \\\n   ...\n\n3. $(\\lnot(\\sym{man}(\\sym{Alex})\\land\\sym{woman}(\\sym{Alex}))\\limpl(\\lnot\\sym{man}(\\sym{Alex})\\lor\\lnot\\sym{woman}(\\sym{Alex})))$ \\\n   ...\n\n4. $(\\lnot\\lnot\\sym{older}(\\sym{Alex},\\sym{Ed})\\lequiv(\\sym{older}(\\sym{Alex},\\sym{Ed})\\lnot\\land\\sym{man}(\\sym{Ed})))$ \\\n   ...\n\n5. $\\bigl(\\sym{older}(\\sym{Ed}, \\sym{Alex})\\limpl(\\lnot\\sym{older}(\\sym{Alex},\\sym{Ed}))\\bigr)$ \\\n   ...\n\n6. $(\\sym{Alex}\\lor\\lnot\\sym{dad})$\\\n   ...\n\n",
+      "data": ":icon[write] Vaše odpovede a zdôvodnenia napíšte priamo do tejto textovej bunky namiesto „…“ \n\n1. $(\\sym{woman}(\\sym{Alex})\\land\\sym{man}(\\sym{Alex}))$ \\\n   \n\n2. $\\lnot(\\sym{likes}(\\sym{Alex},\\sym{Alex}))$ \\\n   ...\n\n3. $(\\lnot(\\sym{man}(\\sym{Alex})\\land\\sym{woman}(\\sym{Alex}))\\limpl(\\lnot\\sym{man}(\\sym{Alex})\\lor\\lnot\\sym{woman}(\\sym{Alex})))$ \\\n   ...\n\n4. $(\\lnot\\lnot\\sym{older}(\\sym{Alex},\\sym{Ed})\\lequiv(\\sym{older}(\\sym{Alex},\\sym{Ed})\\lnot\\land\\sym{man}(\\sym{Ed})))$ \\\n   ...\n\n5. $\\bigl(\\sym{older}(\\sym{Ed}, \\sym{Alex})\\limpl(\\lnot\\sym{older}(\\sym{Alex},\\sym{Ed}))\\bigr)$ \\\n   ...\n\n6. $(\\sym{Alex}\\lor\\lnot\\sym{dad})$\\\n   ...\n\n",
       "idCounter": 0,
       "comments": {
         "ids": [],
